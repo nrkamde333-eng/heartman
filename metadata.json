@@ -1,0 +1,6 @@
+{
+  "name": "Goal Spark AI",
+  "description": "Turn ambitious goals into daily action with an AI planner, calendar, tasks, habits, and analytics in one focused workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
